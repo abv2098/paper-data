@@ -16,9 +16,9 @@ Los datos METAR se utilizaron como información de apoyo para comparar las condi
 
 **Archivos**
 
-metar.csv — Datos METAR del Aeropuerto Internacional Jorge Chávez (SPJC).
-NodoAlto.csv — Datos registrados por el Nodo Alto.
-NodoBajo.csv — Datos registrados por el Nodo Bajo.
+- metar.csv — Datos METAR del Aeropuerto Internacional Jorge Chávez (SPJC).
+- NodoAlto.csv — Datos registrados por el Nodo Alto.
+- NodoBajo.csv — Datos registrados por el Nodo Bajo.
 
 Palabras Clave: Internet de las Cosas (IoT); Monitoreo meteorológico; Lomas costeras; Tecnología LoRa; Sensores de bajo costo; Niebla.
 
