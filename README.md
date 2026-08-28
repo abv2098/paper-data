@@ -1,14 +1,14 @@
 # paper-data
 Weather Monitoring Data
-Study
+
 The study was carried out at the Amancay Sanctuary in Lima, Peru.
 Two monitoring nodes were used:
 - Low Node: 521 m a.s.l
 - High Node: 568 m a.s.l.
 The system measured temperature, relative humidity, UV radiation, illuminance, and soil moisture.
 
-METAR - Data
-The file metar.csv contains METAR weather reports from Jorge Chávez International Airport (SPJC). The data cover the period from 10 to 12 May 2025. The METAR data were used as supporting information to compare the weather conditions observed by the monitoring system. They were not used as direct confirmation of fog at the study site.
+DATA
+The data cover the period from 10 to 12 May 2025. The METAR data were used as supporting information to compare the weather conditions observed by the monitoring system. They were not used as direct confirmation of fog at the study site.
 
 File
 - metar.csv — METAR weather data from SPJC.
