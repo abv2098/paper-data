@@ -3,9 +3,9 @@
 **Datos de Monitoreo Meteorológico**
 
 El estudio se realizó en el Santuario de Amancay, Lima, Perú. Se utilizaron dos nodos de monitoreo:
+- Nodo Bajo: 521 m s. n. m.
+- Nodo Alto: 568 m s. n. m.
 
-Nodo Bajo: 521 m s. n. m.
-Nodo Alto: 568 m s. n. m.
 El sistema midió temperatura, humedad relativa, radiación UV, iluminancia y humedad del suelo.
 
 **Datos**
@@ -16,7 +16,7 @@ Los datos METAR se utilizaron como información de apoyo para comparar las condi
 
 **Archivos**
 
-- metar.csv — Datos METAR del Aeropuerto Internacional Jorge Chávez (SPJC).
+- metar.csv — Datos METAR del Aeropuerto Internacional Jorge Chávez (SPJC), obtenidos mediante OGIMET.
 - NodoAlto.csv — Datos registrados por el Nodo Alto.
 - NodoBajo.csv — Datos registrados por el Nodo Bajo.
 
@@ -37,15 +37,16 @@ The study was carried out at the Amancay Sanctuary in Lima, Peru.
 Two monitoring nodes were used:
 - Low Node: 521 m a.s.l.
 - High Node: 568 m a.s.l.
+
 The system measured temperature, relative humidity, UV radiation, illuminance, and soil moisture.
 
 **DATA**
 
 The data cover the period from 10 to 12 May 2025. The METAR data were used as supporting information to compare the weather conditions observed by the monitoring system. They were not used as direct confirmation of fog at the study site.
 
-**File**
+**Files**
 
-- metar.csv — METAR weather data from SPJC.
+- metar.csv — METAR weather data from SPJC, obtained through OGIMET.
 - NodoAlto.csv — Data collected by the High Node.
 - NodoBajo.csv — Data collected by the Low Node.
 
