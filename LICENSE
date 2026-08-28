@@ -1,0 +1,27 @@
+# Data License
+
+## Original research data
+
+Unless otherwise stated, the original research data generated and collected as part of this study, including the measurements recorded by the **High Node (`NodoAlto.csv`)** and **Low Node (`NodoBajo.csv`)**, are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You are free to share and adapt these original research data for any purpose, provided that appropriate credit is given, a link to the license is provided, and any changes are indicated.
+
+The full license terms are available at:
+
+https://creativecommons.org/licenses/by/4.0/
+
+## Third-party meteorological data
+
+The file **`metar.csv`** contains METAR and SPECI meteorological observations obtained through **OGIMET** from external meteorological data sources.
+
+These third-party meteorological reports are **not covered by the CC BY 4.0 license** applied to the original research data in this repository. The rights and conditions applicable to the METAR/SPECI reports remain subject to the terms and conditions of their original data providers and applicable regulations.
+
+OGIMET indicates that the copyright of coded meteorological reports, including METAR and SPECI, belongs to the corresponding country or source institution. Users who reuse these data should consult and comply with the applicable conditions of the original data provider.
+
+Source: OGIMET — https://www.ogimet.com/
+
+## Citation
+
+When reusing the original research data covered by the CC BY 4.0 license, please cite the associated research article and acknowledge the authors of the dataset.
+
+Copyright © 2025 The authors of the associated research article.
