@@ -1,4 +1,25 @@
 # paper-data
+---------------------------------------------------------------------------------
+Datos de Monitoreo Meteorológico
+El estudio se realizó en el Santuario de Amancay, Lima, Perú. Se utilizaron dos nodos de monitoreo:
+
+Nodo Bajo: 521 m s. n. m.
+Nodo Alto: 568 m s. n. m.
+El sistema midió temperatura, humedad relativa, radiación UV, iluminancia y humedad del suelo.
+
+Datos
+Los datos de campo corresponden al periodo del 10 al 12 de mayo de 2025.
+
+Los datos METAR se utilizaron como información de apoyo para comparar las condiciones meteorológicas observadas por el sistema de monitoreo. No se utilizaron como confirmación directa de la presencia de niebla en el área de estudio.
+
+Archivos
+metar.csv — Datos METAR y SPECI del Aeropuerto Internacional Jorge Chávez (SPJC).
+NodoAlto.csv — Datos registrados por el Nodo Alto.
+NodoBajo.csv — Datos registrados por el Nodo Bajo.
+
+Palabras Clave: Internet de las Cosas (IoT); Monitoreo meteorológico; Lomas costeras; Tecnología LoRa; Sensores de bajo costo; Niebla.
+
+-------------------------------------------------------------------------
 Weather Monitoring Data
 
 The study was carried out at the Amancay Sanctuary in Lima, Peru.
@@ -15,5 +36,7 @@ File
 - NodoAlto.csv — Data collected by the High Node.
 - NodoBajo.csv — Data collected by the Low Node.
 
-Keywords
-Fog, weather data, METAR, IoT, LoRa, Peru.
+Key words: Internet of Things (IoT); Meteorological monitoring; Coastal lomas; LoRa technology; Low-cost sensors; Fog.
+
+
+
