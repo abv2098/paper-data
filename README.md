@@ -22,11 +22,15 @@ Los datos METAR se utilizaron como información de apoyo para comparar las condi
 
 Palabras Clave: Internet de las Cosas (IoT); Monitoreo meteorológico; Lomas costeras; Tecnología LoRa; Sensores de bajo costo; Niebla.
 
-##Licencia
+Licencia
 
-Los datos originales de investigación (NodoAlto.csv y NodoBajo.csv) se distribuyen bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0).(https://creativecommons.org/licenses/by/4.0/)
-Los datos METAR/SPECI contenidos en metar.csv son datos de terceros y no están cubiertos por esta licencia.
--------------------------------------------------------------------------
+Los datos originales de investigación (NodoAlto.csv y NodoBajo.csv) se distribuyen bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+https://creativecommons.org/licenses/by/4.0/
+
+Los datos METAR/SPECI contenidos en metar.csv son datos de terceros y no están cubiertos por esta licencia.  
+
+------------------------------------------------------------------------------------------------------------------
 **Weather Monitoring Data**
 
 The study was carried out at the Amancay Sanctuary in Lima, Peru.
