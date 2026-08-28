@@ -16,7 +16,7 @@ Los datos METAR se utilizaron como información de apoyo para comparar las condi
 
 **Archivos**
 
-metar.csv — Datos METAR y SPECI del Aeropuerto Internacional Jorge Chávez (SPJC).
+metar.csv — Datos METAR del Aeropuerto Internacional Jorge Chávez (SPJC).
 NodoAlto.csv — Datos registrados por el Nodo Alto.
 NodoBajo.csv — Datos registrados por el Nodo Bajo.
 
