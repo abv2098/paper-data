@@ -5,7 +5,7 @@ This repository contains METAR weather data used in a fog monitoring study in Pe
 Study
 The study was carried out at the Amancay Sanctuary in Lima, Peru.
 Two monitoring nodes were used:
-- Low Node: 521 m a.s.l.
+- Low Node: 521 m a.s.l
 - High Node: 568 m a.s.l.
 The system measured temperature, relative humidity, UV radiation, illuminance, and soil moisture.
 
