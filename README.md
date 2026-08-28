@@ -22,12 +22,16 @@ Los datos METAR se utilizaron como información de apoyo para comparar las condi
 
 Palabras Clave: Internet de las Cosas (IoT); Monitoreo meteorológico; Lomas costeras; Tecnología LoRa; Sensores de bajo costo; Niebla.
 
+##Licencia
+
+Los datos originales de investigación (NodoAlto.csv y NodoBajo.csv) se distribuyen bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0).(https://creativecommons.org/licenses/by/4.0/)
+Los datos METAR/SPECI contenidos en metar.csv son datos de terceros y no están cubiertos por esta licencia.
 -------------------------------------------------------------------------
 **Weather Monitoring Data**
 
 The study was carried out at the Amancay Sanctuary in Lima, Peru.
 Two monitoring nodes were used:
-- Low Node: 521 m a.s.l
+- Low Node: 521 m a.s.l.
 - High Node: 568 m a.s.l.
 The system measured temperature, relative humidity, UV radiation, illuminance, and soil moisture.
 
@@ -43,5 +47,9 @@ The data cover the period from 10 to 12 May 2025. The METAR data were used as su
 
 Key words: Internet of Things (IoT); Meteorological monitoring; Coastal lomas; LoRa technology; Low-cost sensors; Fog.
 
+##License
+
+The original research data (NodoAlto.csv and NodoBajo.csv) are distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.(https://creativecommons.org/licenses/by/4.0/)
+The METAR/SPECI data contained in metar.csv are third-party data and are not covered by this license.
 
 
