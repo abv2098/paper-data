@@ -30,6 +30,12 @@ https://creativecommons.org/licenses/by/4.0/
 
 Los datos METAR/SPECI contenidos en metar.csv son datos de terceros y no están cubiertos por esta licencia.  
 
+**Citation**
+
+When using the original research data from this repository, please cite the associated research article and acknowledge the authors of the dataset.
+
+
+
 ------------------------------------------------------------------------------------------------------------------
 **Weather Monitoring Data**
 
@@ -56,8 +62,12 @@ Key words: Internet of Things (IoT); Meteorological monitoring; Coastal lomas; L
 
 The original research data (NodoAlto.csv and NodoBajo.csv) are distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
-(https://creativecommons.org/licenses/by/4.0/)
+https://creativecommons.org/licenses/by/4.0/
 
 The METAR/SPECI data contained in metar.csv are third-party data and are not covered by this license.
+
+**Citation**
+
+When using the original research data from this repository, please cite the associated research article and acknowledge the authors of the dataset.
 
 
